@@ -2,7 +2,7 @@
 
 ffmpeg-go is golang port of https://github.com/kkroening/ffmpeg-python
 
-check examples/example_test.go and ffmpeg_test.go for more examples.
+This fork specifically removes s3 support, because I didn't want to add the entire aws sdk to my project.
 
 # How to get and use
 You can get this package via:
